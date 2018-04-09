@@ -275,7 +275,7 @@ public class HMS extends JFrame{
     
 }
 
-class Date{
+/*class Date{
        private int day,month,year;
        public Date(int day,int month,int year){
            this.day=day;
@@ -311,4 +311,4 @@ class patient{
            return this.name;
        }
        
-   }
+   }*/
